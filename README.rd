@@ -9,5 +9,6 @@ Topics Covered:
 React Components
 Axios for Http Requests
 Firebase for server side requests and Authentication
+Browser Router for routing.
 Redux thunk for Middleware
 Css Modules for Css.
