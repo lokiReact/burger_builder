@@ -47,13 +47,13 @@ class ContactData extends Component {
                 elType: 'input',
                 elConfig: {
                     type: 'text',
-                    placeholder: 'Your ZipCode (5-characters)'
+                    placeholder: 'Your ZipCode (4-characters)'
                 },
                 valid: false,
                 validation: {
                     required: true,
-                    minLength: 5,
-                    maxLength: 5
+                    minLength: 4,
+                    maxLength: 4
                 },
                 touched: false
             },
